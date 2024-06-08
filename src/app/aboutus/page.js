@@ -25,7 +25,7 @@ export default function AboutUs(){
         {
             image:'/images/team/sv.webp',
             name:"SV",
-            title:'Even Director / Lead Dev'
+            title:'Protocol Lead'
         },
         {
             image:"/images/team/ricardo.webp",
