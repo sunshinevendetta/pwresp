@@ -247,7 +247,7 @@ export default function Privacy() {
                 
                 <div className="mt-8">
                   <button onClick={fetchSigners} className="py-2 px-5 inline-block font-semibold tracking-wide border align-middle duration-500 text-base text-center bg-purple-400 hover:bg-purple-500 border-purple-400 hover:border-purple-500 text-white rounded-md">
-                    Obtener Firmantes
+                    Ver quien ha firmado
                   </button>
                   {showSigners && (
                     <div className="mt-4">
