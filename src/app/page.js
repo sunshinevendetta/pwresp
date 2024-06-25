@@ -14,6 +14,7 @@ const Pricing = dynamic(() => import('./components/pricing'));
 const Blogs = dynamic(() => import('./components/blogs'));
 const Features = dynamic(() => import('./components/features'));
 const ThreeBg = dynamic(() => import('./three/page'), { ssr: false });
+const Frens = dynamic(() => import('./components/frens'));
 
 export default function IndexThree() {
   const containerRef = useRef(null);
@@ -46,6 +47,7 @@ export default function IndexThree() {
         <AboutOne />
         <AboutTwo />
         <AiFeatures />
+     <Frens />
         <div className="container relative md:mt-24 mt-16">
           <div className="grid grid-cols-1 pb-6 text-center">
             <h3 className="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">Tickets</h3>
