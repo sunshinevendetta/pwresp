@@ -15,7 +15,6 @@ export default function AboutTwo() {
         { src: "/images/frens/holaradio.webp", alt: "Hola Wave Radio", link: "https://www.instagram.com/holawave.radio/" },
         { src: "/images/frens/exhale.webp", alt: "Exhale Core", link: "https://www.instagram.com/exhale_core/" },
         { src: "/images/frens/nautik.webp", alt: "Crypto Nautik", link: "https://www.cryptonautik.com" },
-        { src: "/images/frens/wen.webp", alt: "Wen Lopez", link: "https://x.com/Wenlopezn" },
         { src: "/images/frens/ordinales.webp", alt: "Los Ordinales", link: "https://x.com/losordinales" },
         { src: "/images/frens/mxweb3.webp", alt: "MXWeb3", link: "https://www.mxweb3.com/" },
         { src: "/images/frens/vara.webp", alt: "Vara Network", link: "https://www.vara.network/" },
