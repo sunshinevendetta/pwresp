@@ -70,7 +70,7 @@ export default function AboutThree() {
           </div>
 
           <div className="rounded-xl my-8 bg-black bg-size-full bg-opacity-70 p-6 md:p-8">
-            <h3 className="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">7-8 de Febrero, 2025 <br />CDMX</h3>
+            <h3 className="mb-4 md:text-3xl md:leading-normal text-2xl leading-normal font-semibold">8-9 de Febrero, 2025 <br />CDMX</h3>
             <p className="text-slate-400 max-w-xl">Colonia Nápoles, un territorio privilegiado junto a los distritos más vibrantes de la CDMX: Roma, Condesa, Polanco, donde la exclusividad se encuentra con la conveniencia.</p>
             <h1 className="mb-4 md:text-1xl md:leading-normal text-1xl leading-normal font-semibold"><br />La Arena</h1>
             <ul className="list-none text-slate-400 mt-4">
