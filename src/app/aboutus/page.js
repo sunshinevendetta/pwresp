@@ -12,56 +12,7 @@ export default function AboutUs(){
     const [isOpen, setOpen] = useState(false);
     const [activeIndex,setActiveIndex] = useState(0)
     const teamData = [
-        {
-            image:'/images/team/joseluis.webp',
-            name:"Jose Luis Perez",
-            title:'C.E.O'
-        },
-        {
-            image:'/images/team/porras.webp',
-            name:"José Carlos Porras",
-            title:'Director Creativo'
-        },
-        {
-            image:'/images/team/sv.webp',
-            name:"SV",
-            title:'Protocol Lead'
-        },
-        {
-            image:"/images/team/ricardo.webp",
-            name:"Ricardo Pérez",
-            title:'Director de Ventas'
-        },
-        {
-            image:"/images/team/alain.webp",
-            name:"Alain Olvera",
-            title:'PR - Enlaces'
-        },
-        {
-            image:'/images/team/damian.webp',
-            name:"Damian Diaz",
-            title:'Dirección Administrativa'
-        },
-        {
-            image:'/images/team/jaen.webp',
-            name:"Jaen Paniagua",
-            title:'Director de Operaciones'
-        },
-        {
-            image:'/images/team/ayax.webp',
-            name:"Ayax Velázquez",
-            title:'Ventas'
-        },
-        {
-            image:'/images/team/fer.webp',
-            name:"Fer Elosegui",
-            title:'Chief Of Business Development'
-        },
-        {
-            image:'/images/team/kevin.webp',
-            name:"Kevin",
-            title:'Ventas'
-        },
+       
     ]
     return(
         <>
