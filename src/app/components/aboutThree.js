@@ -19,25 +19,10 @@ export default function AboutThree() {
       domain: "https://mx.pwr2tp.mx"
     },
     {
-      name: "हिंदी",
-      image: "/images/flags/india.webp",
-      domain: "https://pwr2tp.mx"
-    },
-    {
       name: "中文",
       image: "/images/flags/china.webp",
       domain: "https://pwr2tp.mx"
     },
-    {
-      name: "Deutsch",
-      image: "/images/flags/germany.webp",
-      domain: "https://pwr2tp.mx"
-    },
-    {
-      name: "العربية",
-      image: "/images/flags/uae.webp",
-      domain: "https://pwr2tp.mx"
-    }
   ];
 
   return (
