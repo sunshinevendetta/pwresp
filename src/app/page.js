@@ -6,7 +6,7 @@ export default function WarningModal() {
     <div className="bg-black p-6 rounded shadow-lg max-w-md w-full text-center">
       <h2 className="text-2xl font-bold mb-4 text-white">Warning</h2>
       <p className="mb-4 text-white">
-         Este sitio está siendo descontinuado por falta de pago de DFB (Decentralized Future Builders)
+         Este sitio está descontinuado por falta de pago.
       </p>
     </div>
   );
