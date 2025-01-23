@@ -1,13 +1,11 @@
 'use client';
-import React from 'react';
+import React from "react";
 
-export default function WarningModal() {
+export default function DisconnectedPage() {
   return (
-    <div className="bg-black p-6 rounded shadow-lg max-w-md w-full text-center">
-      <h2 className="text-2xl font-bold mb-4 text-white">Warning</h2>
-      <p className="mb-4 text-white">
-        This site is sun setting for lack of payment.
-      </p>
+    <div className="w-full h-screen flex flex-col items-center justify-center bg-black text-white text-center p-6">
+      <h1 className="text-4xl font-bold">Este sitio esta desconectado</h1>
+      <p className="mt-4 text-lg">El contenido que buscas ha dejado de existir.</p>
     </div>
   );
 }
